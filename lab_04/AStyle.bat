@@ -1,0 +1,1 @@
+%1\AStyle.exe --style=java --indent=spaces=4 --indent-switches --break-blocks --pad-oper --pad-header --attach-return-type --convert-tabs --max-code-length=85 --recursive %2\*.cpp,*.h
